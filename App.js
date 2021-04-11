@@ -128,6 +128,7 @@ const style = StyleSheet.create({
     padding: "1%",
     borderColor: "black",
     borderWidth: 1,
+    borderRadius: 6,
   },
   text: {
     marginBottom: "5%",
@@ -137,6 +138,7 @@ const style = StyleSheet.create({
     borderColor: "black",
     borderWidth: 1,
     marginTop: "3%",
+    borderRadius: 6,
   },
   title: {
     fontSize: 20,
